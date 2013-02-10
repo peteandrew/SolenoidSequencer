@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+	<item android:id="@+id/menuitem_start"
+    	  android:title="@string/menuitem_start" />
+    <item android:id="@+id/menuitem_stop"
+          android:title="@string/menuitem_stop" />
+    <item android:id="@+id/menuitem_refresh"
+          android:title="@string/menuitem_refresh" />          
+</menu>
